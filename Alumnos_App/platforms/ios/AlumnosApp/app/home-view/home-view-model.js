@@ -1,0 +1,3 @@
+var id;
+var accion;
+

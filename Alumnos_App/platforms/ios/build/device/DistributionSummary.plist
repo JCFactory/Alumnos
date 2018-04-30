@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AlumnosApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>8D42167191159709C7AEF8A249EE80ECB8DB1F0D</string>
+				<key>dateExpires</key>
+				<string>23/4/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>8D42167191159709C7AEF8A249EE80ECB8DB1F0D</string>
+						<key>dateExpires</key>
+						<string>23/4/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>NativeScript.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>97K67M84B8</string>
+						<key>name</key>
+						<string>Jacqueline Franßen</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>8D42167191159709C7AEF8A249EE80ECB8DB1F0D</string>
+						<key>dateExpires</key>
+						<string>23/4/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>TNSWidgets.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>97K67M84B8</string>
+						<key>name</key>
+						<string>Jacqueline Franßen</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>97K67M84B8.org.nativescript.RFIDApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>97K67M84B8</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>97K67M84B8.org.nativescript.RFIDApp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>AlumnosApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>271c96c2-4f33-4aab-a84b-643e5a02f6b7</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.nativescript.RFIDApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>97K67M84B8</string>
+				<key>name</key>
+				<string>Jacqueline Franßen</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

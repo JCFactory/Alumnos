@@ -1,0 +1,1 @@
+/Users/jacquelinefranssen/Library/Developer/Xcode/DerivedData/AlumnosApp-ccgznlaoktexpqdjabnfpcvanyna/Build/Intermediates.noindex/ArchiveIntermediates/AlumnosApp/InstallationBuildProductsLocation/Applications/AlumnosApp.app

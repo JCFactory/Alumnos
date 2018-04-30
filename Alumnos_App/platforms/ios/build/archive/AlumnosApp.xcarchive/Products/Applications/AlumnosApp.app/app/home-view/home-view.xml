@@ -1,0 +1,13 @@
+<Page class="page" xmlns="http://schemas.nativescript.org/tns.xsd">
+    <ActionBar class="action-bar">
+        <Label class="action-bar-title" background-color="green" text="Alumnos"></Label>
+    </ActionBar>
+    <ListView items="{{alumnos}}" loaded="loaded">
+        <ListView.itemTemplate>
+            <GridLayout columns="*,*"  >
+                <Label text="{{id}}" class="btn" col="0" colSpan="2" tap="onTap"/>
+                <Label stretch="none" id ="circle" class="circle" col="1"/>
+            </GridLayout>
+        </ListView.itemTemplate>
+    </ListView>
+</Page>

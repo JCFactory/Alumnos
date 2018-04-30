@@ -1,0 +1,12 @@
+{
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "main": "app.js",
+  "name": "tns-template-blank",
+  "version": "3.4.3",
+  "dependencies": {
+    "mongodb": "^3.0.7",
+    "nodejs": "0.0.0"
+  }
+}
